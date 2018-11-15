@@ -48,4 +48,15 @@ console.log(nombrepersonas[1]);
 console.log(nombrepersonas [2]);
 console.log(nombrepersonas[3]);
 console.log(nombrepersonas[4]);
- 
+
+//crear un array con los 6 meses del año e imprimirlos en pantalla grupal e individual
+var datos =  ['enero' , 'febrero' , 'marzo', 'abril', 'mayo','junio'];
+console.log(datos);
+console.log(datos [0]);
+console.log(datos[1]);
+console.log(datos[2]);
+console.log(datos[3]);
+console.log(datos[4]);
+console.log(datos[5]);
+
+
