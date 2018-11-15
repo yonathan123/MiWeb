@@ -59,4 +59,14 @@ console.log(datos[3]);
 console.log(datos[4]);
 console.log(datos[5]);
 
+var nota1 = 10;
+var nota2 = 05;
+var nota3 = 13;
+ var promedio = (nota1 + nota2 + nota3) / 3;
+console.log(nota1);
+console.log(nota2);
+console.log(nota3);
+console.log('el promedio final' +promedio)
+
+
 
